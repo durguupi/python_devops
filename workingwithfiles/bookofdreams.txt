@@ -1,0 +1,6 @@
+This is Just sample file to work with Python
+This is book of dreams
+Lets Automate so many tasks with Python
+The science, when it admits the possibility of occasional hallucinations
+This is line number 5 when displayed if index is 4
+There are so many items in this book
