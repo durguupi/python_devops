@@ -7,7 +7,9 @@ open_file = open(file_path, 'r')
 text = open_file.read()
 print(len(text))
 print(text[56])
-
+print(open_file.name)
+# Prints which mode we are working like r-->Read w--> write
+print(open_file.mode)
 # It is a good practice to close a file when you finish with it. Python closes a file when it is out of scope,
 # but until then the file consumes resources and may prevent other processes from opening it.
 
