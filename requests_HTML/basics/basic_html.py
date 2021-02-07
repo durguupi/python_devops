@@ -1,6 +1,6 @@
 from requests_html import HTML
 
-with open('python-devops/requests_HTML/basic.html') as html_file:
+with open('python-devops/requests_HTML/basics/basic.html') as html_file:
     source = html_file.read()
     html = HTML(html=source)
 

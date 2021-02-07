@@ -1,0 +1,10 @@
+total 4.0K
+drwxrwxrwx 1 root root 4.0K Jan  4 12:26 notes
+-rwxrwxrwx 1 root root  187 Jan 11 21:35 notes_python.txt
+drwxrwxrwx 1 root root 4.0K Jan 15 08:35 python_programs
+-rwxrwxrwx 1 root root 1.8K Jan 17 14:50 notes_gcp.txt
+drwxrwxrwx 1 root root 4.0K Jan 19 04:57 gcp_terraform
+drwxrwxrwx 1 root root 4.0K Jan 20 12:53 bash_scitping
+drwxrwxrwx 1 root root 4.0K Jan 20 21:49 .
+drwxrwxrwx 1 root root 4.0K Feb  3 09:49 ..
+drwxrwxrwx 1 root root 4.0K Feb  5 20:21 python-devops
