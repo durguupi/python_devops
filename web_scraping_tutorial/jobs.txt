@@ -1,0 +1,104 @@
+******************************** JOB Number:1 *****************************
+Company Name: Gibots
+Required Skills: devops,infrastructure,api
+Published_date: Posted 3 days ago
+Years of Experience: 0 - 6 yrs
+Location: Pune
+More_information: https://www.timesjobs.com/job-detail/devops-gibots-pune-0-to-6-yrs-jobid-UIDgX2tswmZzpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:2 *****************************
+Company Name: APPLYCUPHIRINGSOLUTIONSLLP
+Required Skills: security,git,devops,docker
+Published_date: Posted few days ago
+Years of Experience: 3 - 5 yrs
+Location: Pune
+More_information: https://www.timesjobs.com/job-detail/devops-applycup-hiring-solutions-llp-pune-3-to-5-yrs-jobid-eWXUXi38kttzpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:3 *****************************
+Company Name: APPLYCUPHIRINGSOLUTIONSLLP
+Required Skills: git,devops,maven,problemsolving
+Published_date: Posted few days ago
+Years of Experience: 5 - 10 yrs
+Location: Noida/Greater Noida
+More_information: https://www.timesjobs.com/job-detail/devops-applycup-hiring-solutions-llp-noida-greater-noida-5-to-10-yrs-jobid-xfIOtW__SLASH__zAYZzpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:4 *****************************
+Company Name: APPLYCUPHIRINGSOLUTIONSLLP
+Required Skills: java,devops,mysql,teamplayer
+Published_date: Posted few days ago
+Years of Experience: 2 - 4 yrs
+Location: Ahmedabad
+More_information: https://www.timesjobs.com/job-detail/devops-applycup-hiring-solutions-llp-ahmedabad-2-to-4-yrs-jobid-TXXjGAE9DjdzpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:6 *****************************
+Company Name: WalkingTree
+Required Skills: oracle,maven,docker,git,devops
+Published_date: Posted few days ago
+Years of Experience: 0 - 3 yrs
+Location: Hyderabad/Secunderabad
+More_information: https://www.timesjobs.com/job-detail/devops-walking-tree-hyderabad-secunderabad-0-to-3-yrs-jobid-__PLUS__d3mPdMsKC1zpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:13 *****************************
+Company Name: IBMIndiaPvtLtd
+Required Skills: technicalspecialist,oss,docker,java,git,devops,globaldelivery,junit,c,maven,mx,springboot
+Published_date: Posted today
+Years of Experience: 0 - 3 yrs
+Location: Mexico
+More_information: https://www.timesjobs.com/job-detail/devops-ibm-india-pvt-ltd-mexico-0-to-3-yrs-jobid-HFOnpHLbcLhzpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:14 *****************************
+Company Name: LandTTechnologyServices
+Required Skills: c#,cli,c,c,docker,java,git,pythonscripting,groovy,devops
+Published_date: Posted 2 days ago
+Years of Experience: 3 - 7 yrs
+Location: Mysoru / Mysore,  Bengaluru / Bangalore
+More_information: https://www.timesjobs.com/job-detail/devops-l-and-t-technology-services-mysoru-mysore-bengaluru-bangalore-3-to-7-yrs-jobid-vLv62KMgqYhzpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:15 *****************************
+Company Name: BloomConsultingServices
+Required Skills: ant,maven,mobile,svn,jbossapplicationserver,docker,gradle,java,devops
+Published_date: Posted 4 days ago
+Years of Experience: 0 - 3 yrs
+Location: Bengaluru / Bangalore
+More_information: https://www.timesjobs.com/job-detail/devops-bloom-consulting-services-bengaluru-bangalore-0-to-3-yrs-jobid-RsWwT2HzHiVzpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:16 *****************************
+Company Name: BloomConsultingServices
+Required Skills: ant,maven,mobile,svn,jbossapplicationserver,docker,gradle,java,devops
+Published_date: Posted 5 days ago
+Years of Experience: 0 - 3 yrs
+Location: Hyderabad/Secunderabad
+More_information: https://www.timesjobs.com/job-detail/devops-bloom-consulting-services-hyderabad-secunderabad-0-to-3-yrs-jobid-Vagfm5hQ6dVzpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:17 *****************************
+Company Name: AIMDekTechnologies
+Required Skills: orchestration,docker,git,devops,cloudcomputing,technicalskills,rest,svn,infrastructure,openstack
+Published_date: Posted few days ago
+Years of Experience: 3 - 6 yrs
+Location: Ahmedabad
+More_information: https://www.timesjobs.com/job-detail/devops-aimdek-technologies-ahmedabad-3-to-6-yrs-jobid-n0zMKkZIOUFzpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:20 *****************************
+Company Name: PROLIMSolutionsIndiaPvtLtd
+Required Skills: programmanagement,docker,devops,technologyconsulting,debugging,technicalskills,python,writtencommunication,infrastructure
+Published_date: Posted few days ago
+Years of Experience: 5 - 8 yrs
+Location: Bengaluru / Bangalore
+More_information: https://www.timesjobs.com/job-detail/devops-prolim-solutions-india-pvt-ltd-bengaluru-bangalore-5-to-8-yrs-jobid-mxcSiIRoJhpzpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:24 *****************************
+Company Name: ORACLE
+Required Skills: c,orchestration,java,devops,bigdata,python,oracle,storage,docker,database,security,git,teamcity,perl,cloudcomputing,cloudservices,c,problemsolving,writtencommunication,infrastructure
+Published_date: Posted few days ago
+Years of Experience: 8 - 11 yrs
+Location: 
+More_information: https://www.timesjobs.com/job-detail/devops-oracle-8-to-11-yrs-jobid-T2qfHgiACy5zpSvf__PLUS__uAgZw==&source=srp
+
+******************************** JOB Number:25 *****************************
+Company Name: CAREERXPERTSCONSULTING
+Required Skills: c,informationtechnology,devops,infrastructure,debugging,shellscripting,hadoop,perl,unix
+Published_date: Posted few days ago
+Years of Experience: 5 - 8 yrs
+Location: Bengaluru / Bangalore
+More_information: https://www.timesjobs.com/job-detail/devops-careerxperts-consulting-bengaluru-bangalore-5-to-8-yrs-jobid-hs1m3nYWE3BzpSvf__PLUS__uAgZw==&source=srp
+
